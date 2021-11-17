@@ -1,0 +1,8 @@
+页面上使用<script src="./js/head.js" id='headInfo'  data-url='https://www.dudugua.com' data-title="新增门店"></script>
+
+data-url=右上角房子跳转链接 （必填）
+data-title =中间头部文字（非必填 不选的话默认页面title）
+
+全局方法
+HeroLoad.start()//开启加载状态
+HeroLoad.stop() //关闭加载状态
