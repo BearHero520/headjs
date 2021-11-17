@@ -1,4 +1,4 @@
-页面上使用<script src="./js/head.js" id='headInfo'  data-url='https://www.dudugua.com' data-title="新增门店"></script>
+页面上使用<script src="./js/head.js" id='headInfo'  data-url='http://www.baidu.com' data-title="新增门店"></script>
 
 data-url=右上角房子跳转链接 （必填）
 data-title =中间头部文字（非必填 不选的话默认页面title）
